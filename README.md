@@ -1,20 +1,21 @@
- Hey! I'm Arash 👋
+ Hey! I'm Arash 🤓
  
 a Full Stack Devoloper
 
 
 
+
 🛠 Languages:
 <p align="left">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/JavaScript.svg" width="100" height="35" title="JavaScript">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/html.svg" width="100" height="35" title="HTML">
+  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/JavaScript.svg" width="120" height="35" title="JavaScript">
+  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/html.svg" width="120" height="35" title="HTML">
   <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/css.svg" width="100" height="35" title="CSS">
   <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/django.svg" width="120" height="35" title="Django">
+  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/python.svg" width="120" height="35" title="Python">
 </p>
 
 
-
-Social Media:
+❤️Social Media:
 <p align="left">
  
   <a href="https://www.instagram.com/Arash_mstfpr/" rel="nofollow">
