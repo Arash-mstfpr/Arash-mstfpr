@@ -5,27 +5,32 @@ a Full Stack Devoloper
 
 
 🛠 Languages:
-<p align="center">
+<p align="left">
   <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/JavaScript.svg" width="100" height="35" title="JavaScript">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/html.svg" width="150" title="HTML">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/css.svg" width="150" title="CSS">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/django.png" width="150" title="Django">
+  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/html.svg" width="100" height="35" title="HTML">
+  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/css.svg" width="100" height="35" title="CSS">
+  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/django.svg" width="120" height="35" title="Django">
 </p>
 
 
-
-🔨  Tools:
-<p align="center">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/JavaScript.svg" width="150" title="JavaScript">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/html.svg" width="150" title="JavaScript">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/css.svg" width="150" title="JavaScript">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/JavaScript.svg" width="150" title="JavaScript">
-</p>
 
 Social Media:
-<p align="center">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/instagram.png" width="35" title="instagram">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/linkedin.png" width="35" title="linkedin">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/twitter.png" width="35" title="twitter">
-  <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/youtube.png" width="35" title="youtube">
+<p align="left">
+ 
+  <a href="https://www.instagram.com/Arash_mstfpr/" rel="nofollow">
+    <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/instagram.png" width="35" title="instagram">
+  </a>
+
+  <a href="https://www.linkedin.com/in/arash-mstfpr" rel="nofollow">
+    <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/linkedin.png" width="35" title="linkedin">
+  </a>
+
+  <a href="https://twitter.com/Arash_mstfpr" rel="nofollow">
+    <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/twitter.png" width="35" title="twitter">
+  </a>
+
+  <a href="https://youtube.com/user/Fullstackdeveloper-ew7qv" rel="nofollow">
+    <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/youtube.png" width="35" title="youtube">
+  </a>
+
 </p>
