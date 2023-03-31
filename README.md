@@ -1,10 +1,10 @@
  Hey! I'm Arash 🤓
- 
+ -----------------------------------------------------
 a Full Stack Devoloper
 
 
 
-
+-----------------------------------------------------
 🛠 Languages:
 <p align="left">
   <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/JavaScript.svg" width="120" height="35" title="JavaScript">
@@ -14,7 +14,7 @@ a Full Stack Devoloper
   <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/python.svg" width="120" height="35" title="Python">
 </p>
 
-
+-----------------------------------------------------
 ❤️Social Media:
 <p align="left">
  
@@ -39,3 +39,5 @@ a Full Stack Devoloper
   </a>
 
 </p>
+
+-----------------------------------------------------
