@@ -41,3 +41,7 @@ a Full Stack Devoloper
 </p>
 
 -----------------------------------------------------
+
+  <a href="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/Dino%20Game/index.html" rel="nofollow">
+    <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/youtube.png" width="35" title="youtube">
+  </a>
