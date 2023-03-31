@@ -18,6 +18,10 @@ a Full Stack Devoloper
 ❤️Social Media:
 <p align="left">
  
+   <a href="https://www.instagram.com/Arash_mstfpr/" rel="nofollow">
+    <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/codepen.svg" width="35" background-color="blu" title="instagram">
+  </a>
+ 
   <a href="https://www.instagram.com/Arash_mstfpr/" rel="nofollow">
     <img src="https://github.com/Arash-mstfpr/Arash-mstfpr/blob/main/icon/instagram.png" width="35" title="instagram">
   </a>
